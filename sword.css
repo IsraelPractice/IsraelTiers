@@ -310,7 +310,7 @@ h2 {
 
 /* Row 2 */
 #cell2_1 {
-  background-color: #95CEFF;
+  background-color: #292929;
 }
 
 #cell2_2 {
@@ -398,7 +398,7 @@ h2 {
 }
 
 #cell6_2 {
-  background-color: #95CEFF;
+  background-color: #3E71F4;
 }
 
 #cell6_3 {
@@ -507,7 +507,7 @@ h2 {
 }
 
 #cell11_3 {
-  background-color: #95CEFF;
+  background-color: #3E71F4;
 }
 
 #cell11_4 {
@@ -528,7 +528,7 @@ h2 {
 }
 
 #cell12_3 {
-  background-color: #95CEFF;
+  background-color: #3E71F4;
 }
 
 #cell12_4 {
@@ -545,7 +545,7 @@ h2 {
 }
 
 #cell13_2 {
-  background-color: #292929;
+  background-color: #95CEFF;
 }
 
 #cell13_3 {
@@ -566,7 +566,7 @@ h2 {
 }
 
 #cell14_2 {
-  background-color: #292929;
+  background-color: #95CEFF;
 }
 
 #cell14_3 {
@@ -704,5 +704,26 @@ h2 {
 }
 
 #cell20_5 {
+  background-color: #292929;
+}
+
+/* Row 21 */
+#cell21_1 {
+  background-color: #292929;
+}
+
+#cell21_2 {
+  background-color: #292929;
+}
+
+#cell21_3 {
+  background-color: #95CEFF;
+}
+
+#cell21_4 {
+  background-color: #292929;
+}
+
+#cell21_5 {
   background-color: #292929;
 }
