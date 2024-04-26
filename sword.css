@@ -294,6 +294,7 @@ h2 {
 
 #cell1_2 {
   background-color: #3E71F4;
+  color:#FFFF33;
 }
 
 #cell1_3 {
@@ -310,7 +311,7 @@ h2 {
 
 /* Row 2 */
 #cell2_1 {
-  background-color: #292929;
+  background-color: #95CEFF;
 }
 
 #cell2_2 {
@@ -326,7 +327,7 @@ h2 {
 }
 
 #cell2_5 {
-  background-color: #3E71F4;
+  background-color: #292929;
 }
 
 /* Row 3 */
@@ -347,7 +348,7 @@ h2 {
 }
 
 #cell3_5 {
-  background-color: #3E71F4;
+  background-color: #292929;
 }
 
 /* Row 4 */
@@ -357,6 +358,7 @@ h2 {
 
 #cell4_2 {
   background-color: #3E71F4;
+  color:#FFFF33;
 }
 
 #cell4_3 {
@@ -399,6 +401,7 @@ h2 {
 
 #cell6_2 {
   background-color: #3E71F4;
+  
 }
 
 #cell6_3 {
@@ -419,7 +422,8 @@ h2 {
 }
 
 #cell7_2 {
-  background-color: #95CEFF;
+  background-color: #3E71F4;
+  color:#FFFF33;
 }
 
 #cell7_3 {
@@ -441,6 +445,7 @@ h2 {
 
 #cell8_2 {
   background-color: #95CEFF;
+
 }
 
 #cell8_3 {
@@ -462,6 +467,7 @@ h2 {
 
 #cell9_2 {
   background-color: #95CEFF;
+  color:#FFFF33;
 }
 
 #cell9_3 {
@@ -483,6 +489,7 @@ h2 {
 
 #cell10_2 {
   background-color: #95CEFF;
+  color:#FFFF33;
 }
 
 #cell10_3 {
@@ -504,6 +511,7 @@ h2 {
 
 #cell11_2 {
   background-color: #95CEFF;
+  color:
 }
 
 #cell11_3 {
@@ -525,6 +533,7 @@ h2 {
 
 #cell12_2 {
   background-color: #95CEFF;
+  color:#FFFF33;
 }
 
 #cell12_3 {
@@ -553,7 +562,7 @@ h2 {
 }
 
 #cell13_4 {
-  background-color: #95CEFF;
+  background-color: #3E71F4;
 }
 
 #cell13_5 {
@@ -566,7 +575,7 @@ h2 {
 }
 
 #cell14_2 {
-  background-color: #95CEFF;
+  background-color: #292929;
 }
 
 #cell14_3 {
@@ -574,7 +583,7 @@ h2 {
 }
 
 #cell14_4 {
-  background-color: #95CEFF;
+  background-color: #3E71F4;
 }
 
 #cell14_5 {
@@ -595,7 +604,7 @@ h2 {
 }
 
 #cell15_4 {
-  background-color: #95CEFF;
+  background-color: #3E71F4;
 }
 
 #cell15_5 {
@@ -679,7 +688,7 @@ h2 {
 }
 
 #cell19_4 {
-  background-color: #292929;
+  background-color: #95CEFF;
 }
 
 #cell19_5 {
@@ -700,7 +709,7 @@ h2 {
 }
 
 #cell20_4 {
-  background-color: #292929;
+  background-color: #95CEFF;
 }
 
 #cell20_5 {
@@ -721,9 +730,89 @@ h2 {
 }
 
 #cell21_4 {
-  background-color: #292929;
+  background-color: #95CEFF;
 }
 
 #cell21_5 {
+  background-color: #292929;
+}
+/* Row 22 */
+#cell22_1 {
+  background-color: #292929;
+}
+
+#cell22_2 {
+  background-color: #292929;
+}
+
+#cell22_3 {
+  background-color: #95CEFF;
+}
+
+#cell22_4 {
+  background-color: #292929;
+}
+
+#cell22_5 {
+  background-color: #292929;
+}
+/* Row 23 */
+#cell23_1 {
+  background-color: #292929;
+}
+
+#cell23_2 {
+  background-color: #292929;
+}
+
+#cell23_3 {
+  background-color: #95CEFF;
+}
+
+#cell23_4 {
+  background-color: #292929;
+}
+
+#cell23_5 {
+  background-color: #292929;
+}
+/* Row 24 */
+#cell24_1 {
+  background-color: #292929;
+}
+
+#cell24_2 {
+  background-color: #292929;
+}
+
+#cell24_3 {
+  background-color: #95CEFF;
+}
+
+#cell24_4 {
+  background-color: #292929;
+}
+
+#cell24_5 {
+  background-color: #292929;
+}
+/* Row 25 */
+#cell25_1 {
+  background-color: #292929;
+}
+
+#cell25_2 {
+  background-color: #292929;
+}
+
+#cell25_3 {
+  background-color: #95CEFF;
+}
+
+#cell25_4 {
+  background-color: #292929;
+}
+
+#cell25_5 {
   background-color: #292929;
 }
